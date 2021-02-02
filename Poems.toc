@@ -1,0 +1,5 @@
+\contentsline {section}{Archery}{1}{}%
+\contentsline {section}{Then the War}{2}{}%
+\contentsline {section}{Entire Known World So Far}{3}{}%
+\contentsline {section}{Of the Shining Underlife}{4}{}%
+\contentsline {section}{The Uncle Poem}{5}{}%
