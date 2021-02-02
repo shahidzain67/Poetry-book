@@ -3,3 +3,8 @@
 \contentsline {section}{Entire Known World So Far}{3}{}%
 \contentsline {section}{Of the Shining Underlife}{4}{}%
 \contentsline {section}{The Uncle Poem}{5}{}%
+\contentsline {section}{Fuck Your Lecture on Craft, My People Are Dying}{7}{}%
+\contentsline {section}{Tonight}{8}{}%
+\contentsline {section}{The Unbearable Weight of Staying}{9}{}%
+\contentsline {section}{Wild Geese}{10}{}%
+\contentsline {section}{And this I dreamt, and this I dream}{11}{}%
