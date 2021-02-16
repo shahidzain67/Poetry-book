@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.31)  2 FEB 2021 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.31)  2 FEB 2021 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -211,7 +211,7 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen165
 \Gm@layoutvoffset=\dimen166
 \Gm@dimlist=\toks25
-) (/Users/Zain/Documents/Poems/poetry-book/Poems.aux (/Users/Zain/Documents/Poems/poetry-book/Archery.aux) (/Users/Zain/Documents/Poems/poetry-book/Then_the_War.aux) (/Users/Zain/Documents/Poems/poetry-book/Entire_Known_World_So_Far.aux) (/Users/Zain/Documents/Poems/poetry-book/Of_the_Shining_Underlife.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem_cont.aux) (/Users/Zain/Documents/Poems/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (/Users/Zain/Documents/Poems/poetry-book/Tonight.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Unbearable_Weight_of_Staying.aux) (/Users/Zain/Documents/Poems/poetry-book/Wild_Geese.aux) (/Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux))
+) (/Users/Zain/Documents/Poems/poetry-book/Poems.aux (/Users/Zain/Documents/Poems/poetry-book/Archery.aux) (/Users/Zain/Documents/Poems/poetry-book/Then_the_War.aux) (/Users/Zain/Documents/Poems/poetry-book/Entire_Known_World_So_Far.aux) (/Users/Zain/Documents/Poems/poetry-book/Of_the_Shining_Underlife.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem_cont.aux) (/Users/Zain/Documents/Poems/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (/Users/Zain/Documents/Poems/poetry-book/Tonight.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Unbearable_Weight_of_Staying.aux) (/Users/Zain/Documents/Poems/poetry-book/Wild_Geese.aux) (/Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux) (/Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux))
 \openout1 = `Poems.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -357,20 +357,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-] (/Users/Zain/Documents/Poems/poetry-book/Poems.aux (/Users/Zain/Documents/Poems/poetry-book/Archery.aux) (/Users/Zain/Documents/Poems/poetry-book/Then_the_War.aux) (/Users/Zain/Documents/Poems/poetry-book/Entire_Known_World_So_Far.aux) (/Users/Zain/Documents/Poems/poetry-book/Of_the_Shining_Underlife.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem_cont.aux) (/Users/Zain/Documents/Poems/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (/Users/Zain/Documents/Poems/poetry-book/Tonight.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Unbearable_Weight_of_Staying.aux) (/Users/Zain/Documents/Poems/poetry-book/Wild_Geese.aux) (/Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux)) ) 
+]
+\openout2 = `Love_Poem_137.aux'.
+
+ (/Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex) [12
+
+
+
+] (/Users/Zain/Documents/Poems/poetry-book/Poems.aux (/Users/Zain/Documents/Poems/poetry-book/Archery.aux) (/Users/Zain/Documents/Poems/poetry-book/Then_the_War.aux) (/Users/Zain/Documents/Poems/poetry-book/Entire_Known_World_So_Far.aux) (/Users/Zain/Documents/Poems/poetry-book/Of_the_Shining_Underlife.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Uncle_Poem_cont.aux) (/Users/Zain/Documents/Poems/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (/Users/Zain/Documents/Poems/poetry-book/Tonight.aux) (/Users/Zain/Documents/Poems/poetry-book/The_Unbearable_Weight_of_Staying.aux) (/Users/Zain/Documents/Poems/poetry-book/Wild_Geese.aux) (/Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux) (/Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux)) ) 
 Here is how much of TeX's memory you used:
- 3179 strings out of 479304
- 53644 string characters out of 5867281
+ 3190 strings out of 479304
+ 54072 string characters out of 5867281
  490260 words of memory out of 5000000
- 20274 multiletter control sequences out of 15000+600000
+ 20278 multiletter control sequences out of 15000+600000
  441859 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,10n,75p,404b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/venturisadf/t1-f_f-venturisadf.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2b8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2bi8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2r8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2ri8a.pfb>
-Output written on /Users/Zain/Documents/Poems/poetry-book/Poems.pdf (13 pages, 90760 bytes).
+Output written on /Users/Zain/Documents/Poems/poetry-book/Poems.pdf (14 pages, 93050 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

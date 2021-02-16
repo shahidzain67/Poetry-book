@@ -312,6 +312,9 @@ INPUT /Users/Zain/Documents/Poems/poetry-book/Wild_Geese.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux
 OUTPUT /Users/Zain/Documents/Poems/poetry-book/Poems.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/arkandis/venturis2/yv2r8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/arkandis/venturis2/yv2r8t.tfm
@@ -460,6 +463,17 @@ INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_drea
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.tex
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.tex
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+OUTPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.tex
 INPUT /Users/Zain/Documents/Poems/poetry-book/Poems.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/Archery.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/Archery.aux
@@ -494,6 +508,9 @@ INPUT /Users/Zain/Documents/Poems/poetry-book/Wild_Geese.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/Love_Poem_137.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/venturisadf/t1-f_f-venturisadf.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2b8a.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2bi8a.pfb
