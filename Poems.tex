@@ -1,20 +1,19 @@
 \documentclass[]{book}
-\usepackage{lingmacros, tree-dvips, parallel, venturis2, fancyhdr, lipsum, paracol, ragged2e}
+\usepackage{lingmacros, tree-dvips, parallel, venturis2, fancyhdr, lipsum, paracol, ragged2e, tocloft, soul}
 \usepackage[T1]{fontenc}
 \usepackage[landscape]{geometry}
-
 \geometry {a5paper, left = 10mm, right = 10mm, top = 20mm, bottom = 10mm, heightrounded}
 
 %Headers and Footers
-\pagestyle{fancy}
+\pagestyle{empty}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
 
 %Remove Numbers from Headings
 \setcounter{secnumdepth}{0} % sections are level 1
-
+\let\cleardoublepage=\clearpage
 \begin{document}
-
+\frontmatter
 %Titlepage
 \begin{titlepage}
   \vspace*{3cm}
@@ -23,15 +22,15 @@
     {\Large Zain Shahid}\\[0.4cm]
   \end{center}
 \end{titlepage}
+\setlength{\cftbeforetoctitleskip}{-1cm}
 
 %Table of contents
-\noindent \begin{minipage}{\textwidth}
-  \vfill
-  \tableofcontents
-  \thispagestyle{empty}
-  \end{minipage}
+\tableofcontents
 
-\setcounter{page}{0} %Start page numbers from first poem
+\mainmatter
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\setcounter{page}{1} %Start page numbers from first poem
 
 %Archery by Carl Phillips - https://www.poetryfoundation.org/poetrymagazine/poems/153792/archery-5ed6f65e9da61
 \include{Archery.tex}
@@ -67,5 +66,95 @@
 %%Love Poem #137 by Sarah Kay - https://www.lyrikline.org/en/poems/love-poem-137-15401
 \include{Love_Poem_137.tex}
 
+%%Dos Lágrimas by Humberto Ak'abal - https://poemasamoryamistad.com/dos-lagrimas.html
+\include{Two-tears.tex}
 
-\end{document}
+%%Sonneto XVII by Pablo Neruda - https://www.poesi.as/pn59017.html
+\include{Sonnet_XVII.tex}
+
+%%Self-Portrait With a Yellow Dress by Safia Elhillo - https://www.reddit.com/r/Poetry/comments/mit5zo/poem_selfportrait_with_a_yellow_dress_by_safia/
+\include{Self-Portrait.tex}
+
+%Stones and Bones by Lucille Clifton - https://www.reddit.com/r/Poetry/comments/mip6g4/poem_stones_and_bones_by_lucille_clifton/
+\include{Stones_and_Bones.tex}
+
+%%Monet Refuses the Operation by Lisel Mueller - https://www.poetryfoundation.org/poems/52577/monet-refuses-the-operation-56d231289e6db
+\include{Monet.tex}
+
+%You Took the Last Bus Home by Brian Bilston - https://www.reddit.com/r/Poetry/comments/m4wqk6/poem_you_took_the_last_bus_home_by_brian_bilston/
+\include{last_bus_home.tex}
+
+%%Kindness by Naomi Shihab Nye - https://www.poetryfoundation.org/poems/52577/monet-refuses-the-operation-56d231289e6db
+\include{Kindness.tex}
+
+%Heavy by Mary Oliver - https://www.reddit.com/r/Poetry/comments/lo9j81/poem_heavy_by_mary_oliver/
+\include{Heavy.tex}
+
+%Standing at The Mirror, The Author Writes A Poem for Himself in Which the Word Hate Is Replaced with The Word Forgive by Brandon Melendez - https://www.reddit.com/r/Poetry/comments/lhlvf5/poem_standing_at_the_mirror_the_author_writes_a/
+\include{Mirror.tex}
+
+%What You Missed That Day You Were Absent from Fourth Grade by Brad Aaron Modlin - https://onbeing.org/poetry/what-you-missed-that-day-you-were-absent-from-fourth-grade/
+\include{What_You_Missed.tex}
+
+%Good Mama by Wanda Coleman - https://www.reddit.com/r/Poetry/comments/lhlvf5/poem_standing_at_the_mirror_the_author_writes_a/
+\include{Good_Mama.tex}
+
+%Ode to Dirt by Sharon Olds - https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-134/ode-to-dirt/?loclr=blogtea
+\include{Ode_to_Dirt.tex}
+
+%%My Grandmother Washes Her Feet in the Sink of the Bathroom at Sears by Mohja Kahf - https://www.poetryfoundation.org/poems/54253/my-grandmother-washes-her-feet-in-the-sink-of-the-bathroom-at-sears
+\include{grandmother.tex}
+
+%%The Promise by Jane Hirshfield - https://www.poetryfoundation.org/poems/55584/the-promise-56d23752834aa
+\include{promise.tex}
+
+%%The Loneliest Job in the World by Tony Hoagland - https://readalittlepoetry.wordpress.com/2012/01/14/the-loneliest-job-in-the-world-by-tony-hoagland/
+\include{The-Loneliest-Job-in-the-World.tex}
+
+%%May we raise children who love the unloved things by Nicolette Sowder - https://readalittlepoetry.wordpress.com/2012/01/14/the-loneliest-job-in-the-world-by-tony-hoagland/
+\include{children.tex}
+
+%%We Lived Happily During the War by Ilya Kaminsky - https://readalittlepoetry.wordpress.com/2012/01/14/the-loneliest-job-in-the-world-by-tony-hoagland/
+\include{happily.tex}
+
+%%Descent by Marin Sorescu - https://www.reddit.com/r/Poetry/comments/n4atwx/poem_descent_by_marin_sorescu/
+\include{Descent.tex}
+
+%%When I Die by Mewlana Jalaluddin Rumi - https://www.reddit.com/r/Poetry/comments/mit5zo/poem_selfportrait_with_a_yellow_dress_by_safia/
+\include{When_I_Die.tex}
+
+%%Do not love half lovers, Do not entertain half friends by Kahlil Gibran - https://www.goodreads.com/quotes/1213937-do-not-love-half-lovers-do-not-entertain-half-friends
+\include{do_not_love.tex}
+
+%%I shall not care  by Sara Teasdale - https://www.reddit.com/r/Poetry/comments/ne5612/poem_i_shall_not_care_by_sara_teasdale/
+\include{care.tex}
+
+%%Anthem for Doomed Youth by Wilfred Owen - https://www.poetryfoundation.org/poems/47393/anthem-for-doomed-youth
+\include{anthem.tex}
+
+%%Why Are Your Poems so Dark? by Linda Pastian - https://www.poetryfoundation.org/poetrymagazine/poems/41918/why-are-your-poems-so-dark
+\include{dark.tex}
+
+%%Say Thank You Say I’m Sorry by Jericho Brown - https://www.nytimes.com/2020/06/15/books/review/jericho-brown-say-thank-you-say-im-sorry-poem-coronavirus.html
+\include{Say_Thank_You_Say_I’m_Sorry.tex}
+
+%Small Kindnesses by Danusha Laméris - https://www.mindfulnessassociation.net/words-of-wonder/small-kindnesses-danusha-lameris/
+\include{kindness.tex}
+
+%%Tu Risa by Pablo Neruda - https://www.babelmatrix.org/works/es/Neruda%2C_Pablo-1904/Tu_risa/en/32878-Your_laughter
+\include{Tu_Risa.tex}
+
+%%Lord Knows by Kwame Opoku-Duku - https://www.poetryfoundation.org/poetrymagazine/poems/156040/lord-knows
+\include{Lord_Knows.tex}
+
+%A Poem for Indigo by Voice Porter - https://www.poetryfoundation.org/poetrymagazine/poems/156050/a-poem-for-indigo
+\include{Indigo.tex}
+\include{Indigo_cont.tex}
+
+%Y Porqué - César Ensalada
+\include{y_porqué.tex}
+
+%Scheherazade (Crush) by Richard Siken - http://youngerpoets.yupnet.org/2008/04/22/scheherazade-crush-by-richard-siken/
+\include{Scheherazade.tex}
+
+\end{document} 

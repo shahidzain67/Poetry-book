@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.2.15)  16 FEB 2021 10:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.2.15)  19 JUL 2021 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -156,6 +156,57 @@ Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip71
 \RaggedRightParindent=\skip72
 \JustifyingParindent=\skip73
+) (c:/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip74
+\cftbeforetoctitleskip=\skip75
+\cftaftertoctitleskip=\skip76
+\cftbeforepartskip=\skip77
+\cftpartnumwidth=\skip78
+\cftpartindent=\skip79
+\cftbeforechapskip=\skip80
+\cftchapindent=\skip81
+\cftchapnumwidth=\skip82
+\cftbeforesecskip=\skip83
+\cftsecindent=\skip84
+\cftsecnumwidth=\skip85
+\cftbeforesubsecskip=\skip86
+\cftsubsecindent=\skip87
+\cftsubsecnumwidth=\skip88
+\cftbeforesubsubsecskip=\skip89
+\cftsubsubsecindent=\skip90
+\cftsubsubsecnumwidth=\skip91
+\cftbeforeparaskip=\skip92
+\cftparaindent=\skip93
+\cftparanumwidth=\skip94
+\cftbeforesubparaskip=\skip95
+\cftsubparaindent=\skip96
+\cftsubparanumwidth=\skip97
+\cftbeforeloftitleskip=\skip98
+\cftafterloftitleskip=\skip99
+\cftbeforefigskip=\skip100
+\cftfigindent=\skip101
+\cftfignumwidth=\skip102
+\c@lofdepth=\count277
+\c@lotdepth=\count278
+\cftbeforelottitleskip=\skip103
+\cftafterlottitleskip=\skip104
+\cftbeforetabskip=\skip105
+\cfttabindent=\skip106
+\cfttabnumwidth=\skip107
+) (c:/texlive/2020/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks24
+\SOUL@lasttoken=\toks25
+\SOUL@cmds=\toks26
+\SOUL@buffer=\toks27
+\SOUL@token=\toks28
+\SOUL@spaceskip=\skip108
+\SOUL@ttwidth=\dimen159
+\SOUL@uldp=\dimen160
+\SOUL@ulht=\dimen161
+LaTeX Info: Redefining \textul on input line 799.
 ) (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+yv2 on input line 112.
@@ -191,43 +242,43 @@ LaTeX Warning: Font shape declaration has incorrect series value `mc'.
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks29
 ) (c:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count277
-\Gm@cntv=\count278
-\c@Gm@tempcnt=\count279
-\Gm@bindingoffset=\dimen159
-\Gm@wd@mp=\dimen160
-\Gm@odd@mp=\dimen161
-\Gm@even@mp=\dimen162
-\Gm@layoutwidth=\dimen163
-\Gm@layoutheight=\dimen164
-\Gm@layouthoffset=\dimen165
-\Gm@layoutvoffset=\dimen166
-\Gm@dimlist=\toks25
-) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Poems.aux (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Archery.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Then_the_War.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Entire_Known_World_So_Far.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Of_the_Shining_Underlife.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem_cont.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Tonight.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Unbearable_Weight_of_Staying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Wild_Geese.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Love_Poem_137.aux))
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen162
+\Gm@wd@mp=\dimen163
+\Gm@odd@mp=\dimen164
+\Gm@even@mp=\dimen165
+\Gm@layoutwidth=\dimen166
+\Gm@layoutheight=\dimen167
+\Gm@layouthoffset=\dimen168
+\Gm@layoutvoffset=\dimen169
+\Gm@dimlist=\toks30
+) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Poems.aux (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Archery.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Then_the_War.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Entire_Known_World_So_Far.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Of_the_Shining_Underlife.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem_cont.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Tonight.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Unbearable_Weight_of_Staying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Wild_Geese.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Love_Poem_137.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Two-tears.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Sonnet_XVII.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Self-Portrait.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Stones_and_Bones.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Monet.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/last_bus_home.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Kindness.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Heavy.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Mirror.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/What_You_Missed.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Good_Mama.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Ode_to_Dirt.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/grandmother.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/promise.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The-Loneliest-Job-in-the-World.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/children.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/happily.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Descent.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/When_I_Die.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/do_not_love.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/care.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/anthem.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/dark.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Say_Thank_You_Say_I’m_Sorry.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/kindness.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Tu_Risa.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Lord_Knows.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Indigo.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Indigo_cont.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/y_porqué.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Scheherazade.aux))
 \openout1 = `Poems.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 16.
+LaTeX Info: Redefining \selectfont on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -269,21 +320,21 @@ LaTeX Info: Redefining \selectfont on input line 16.
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 
+
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Poems.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
-)
+ [2])
 \tf@toc=\write3
 \openout3 = `Poems.toc'.
 
- [0
-
-]
+ [3]
 \openout2 = `Archery.aux'.
 
  (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Archery.tex) [1
+
 
 ]
 \openout2 = `Then_the_War.aux'.
@@ -362,20 +413,342 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-] (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Poems.aux (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Archery.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Then_the_War.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Entire_Known_World_So_Far.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Of_the_Shining_Underlife.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem_cont.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Tonight.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Unbearable_Weight_of_Staying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Wild_Geese.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Love_Poem_137.aux)) ) 
+]
+\openout2 = `Two-tears.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Two-tears.tex) [13
+
+
+
+]
+\openout2 = `Sonnet_XVII.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Sonnet_XVII.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+ []
+
+) [14
+
+
+
+]
+\openout2 = `Self-Portrait.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Self-Portrait.tex) [15
+
+
+
+]
+\openout2 = `Stones_and_Bones.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Stones_and_Bones.tex) [16
+
+
+
+]
+\openout2 = `Monet.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Monet.tex) [17
+
+
+
+]
+\openout2 = `last_bus_home.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/last_bus_home.tex) [18
+
+
+
+]
+\openout2 = `Kindness.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Kindness.tex) [19
+
+
+
+]
+\openout2 = `Heavy.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Heavy.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+) [20
+
+
+
+]
+\openout2 = `Mirror.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Mirror.tex) [21
+
+
+
+]
+\openout2 = `What_You_Missed.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/What_You_Missed.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+) [22
+
+
+
+]
+\openout2 = `Good_Mama.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Good_Mama.tex) [23
+
+
+
+]
+\openout2 = `Ode_to_Dirt.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Ode_to_Dirt.tex) [24
+
+
+
+]
+\openout2 = `grandmother.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/grandmother.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--54
+
+ []
+
+[25
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 73--82
+
+ []
+
+) [26
+
+]
+\openout2 = `promise.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/promise.tex)
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [27
+
+
+
+]
+\openout2 = `The-Loneliest-Job-in-the-World.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The-Loneliest-Job-in-the-World.tex) [28
+
+
+
+]
+\openout2 = `children.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/children.tex) [29
+
+
+
+]
+\openout2 = `happily.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/happily.tex) [30
+
+
+
+]
+\openout2 = `Descent.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Descent.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--29
+
+ []
+
+) [31
+
+
+
+]
+\openout2 = `When_I_Die.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/When_I_Die.tex) [32
+
+
+
+]
+\openout2 = `do_not_love.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/do_not_love.tex) [33
+
+
+
+]
+\openout2 = `care.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/care.tex) [34
+
+
+
+]
+\openout2 = `anthem.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/anthem.tex) [35
+
+
+
+]
+\openout2 = `dark.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/dark.tex) [36
+
+
+
+]
+\openout2 = `Say_Thank_You_Say_I’m_Sorry.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Say_Thank_You_Say_I’m_Sorry.tex) [37
+
+
+
+]
+\openout2 = `kindness.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/kindness.tex) [38
+
+
+
+]
+\openout2 = `Tu_Risa.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Tu_Risa.tex) [39
+
+
+
+]
+\openout2 = `Lord_Knows.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Lord_Knows.tex) [40
+
+
+
+]
+\openout2 = `Indigo.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Indigo.tex) [41
+
+
+
+]
+\openout2 = `Indigo_cont.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Indigo_cont.tex) [42
+
+
+
+]
+\openout2 = `y_porqué.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/y_porqué.tex) [43
+
+
+
+]
+\openout2 = `Scheherazade.aux'.
+
+ (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Scheherazade.tex) [44
+
+
+
+] (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Poems.aux (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Archery.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Then_the_War.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Entire_Known_World_So_Far.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Of_the_Shining_Underlife.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Uncle_Poem_cont.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Fuck_Your_Lecture_on_Craft,_My_People_Are_Dying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Tonight.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The_Unbearable_Weight_of_Staying.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Wild_Geese.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/And_this_I_dreamt,_and_this_I_dream.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Love_Poem_137.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Two-tears.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Sonnet_XVII.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Self-Portrait.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Stones_and_Bones.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Monet.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/last_bus_home.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Kindness.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Heavy.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Mirror.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/What_You_Missed.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Good_Mama.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Ode_to_Dirt.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/grandmother.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/promise.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/The-Loneliest-Job-in-the-World.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/children.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/happily.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Descent.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/When_I_Die.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/do_not_love.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/care.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/anthem.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/dark.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Say_Thank_You_Say_I’m_Sorry.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/kindness.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Tu_Risa.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Lord_Knows.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Indigo.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Indigo_cont.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/y_porqué.aux) (c:/Users/Zain/Documents/Poetry_Book/poetry-book/Scheherazade.aux)) ) 
 Here is how much of TeX's memory you used:
- 3200 strings out of 479302
- 54533 string characters out of 5871204
- 490447 words of memory out of 5000000
- 20287 multiletter control sequences out of 15000+600000
- 441859 words of font info for 42 fonts, out of 8000000 for 9000
+ 3982 strings out of 479302
+ 74527 string characters out of 5871204
+ 492478 words of memory out of 5000000
+ 20844 multiletter control sequences out of 15000+600000
+ 442172 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,10n,75p,412b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,10n,75p,412b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/venturisadf/t1-f_f-venturisadf.enc}<c:/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2b8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2bi8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2r8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2ri8a.pfb>
-Output written on c:/Users/Zain/Documents/Poetry_Book/poetry-book/Poems.pdf (14 pages, 93056 bytes).
+Output written on c:/Users/Zain/Documents/Poetry_Book/poetry-book/Poems.pdf (47 pages, 136384 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 174 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
