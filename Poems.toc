@@ -39,3 +39,4 @@
 \contentsline {section}{A Poem for Indigo}{41}{}%
 \contentsline {section}{Y Porqué}{43}{}%
 \contentsline {section}{Scheherazade (Crush)}{44}{}%
+\contentsline {section}{This Is Why People Burning Down Fast Food Joints and Whatnot}{45}{}%
