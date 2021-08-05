@@ -443,6 +443,9 @@ INPUT /Users/Zain/Documents/Poems/poetry-book/me_myself.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.aux
 OUTPUT /Users/Zain/Documents/Poems/poetry-book/Poems.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/arkandis/venturis2/yv2r8t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/arkandis/venturis2/yv2r8t.tfm
@@ -987,6 +990,17 @@ INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.tex
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.tex
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.tex
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+OUTPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.tex
 INPUT /Users/Zain/Documents/Poems/poetry-book/Poems.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/Archery.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/Archery.aux
@@ -1129,6 +1143,9 @@ INPUT /Users/Zain/Documents/Poems/poetry-book/me_myself.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.aux
 INPUT /Users/Zain/Documents/Poems/poetry-book/tofu.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.aux
+INPUT /Users/Zain/Documents/Poems/poetry-book/cocoon.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/venturisadf/t1-f_f-venturisadf.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2b8a.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/venturis2/yv2bi8a.pfb
