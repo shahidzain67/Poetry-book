@@ -15,32 +15,33 @@
 \contentsline {section}{Stones and Bones}{16}{}%
 \contentsline {section}{Monet Refuses the Operation}{17}{}%
 \contentsline {section}{You Took the Last Bus Home by Brian Bilston}{18}{}%
-\contentsline {section}{Small Kindnesses}{38}{}%
+\contentsline {section}{Small Kindnesses}{39}{}%
 \contentsline {section}{Heavy}{20}{}%
 \contentsline {section}{Standing at The Mirror, Hate Is Replaced with Forgive}{21}{}%
 \contentsline {section}{What You Missed That Day You Were Absent from Fourth Grade}{22}{}%
 \contentsline {section}{Good Mama}{23}{}%
 \contentsline {section}{Ode to Dirt}{24}{}%
 \contentsline {section}{My Grandmother Washes Her Feet in the Sink of the Bathroom at Sears}{25}{}%
-\contentsline {section}{The Promise}{27}{}%
-\contentsline {section}{The Loneliest Job in the World}{28}{}%
-\contentsline {section}{May we raise children who love the unloved things}{29}{}%
-\contentsline {section}{We Lived Happily During the War}{30}{}%
-\contentsline {section}{Descent}{31}{}%
-\contentsline {section}{When I Die}{32}{}%
-\contentsline {section}{Do not love half lovers, Do not entertain half friends}{33}{}%
-\contentsline {section}{I shall not care }{34}{}%
-\contentsline {section}{Anthem for Doomed Youth }{35}{}%
-\contentsline {section}{Why Are Your Poems so Dark? }{36}{}%
-\contentsline {section}{Say Thank You Say I’m Sorry }{37}{}%
-\contentsline {section}{Small Kindnesses}{38}{}%
-\contentsline {section}{Tu Risa}{39}{}%
-\contentsline {section}{Lord Knows}{40}{}%
-\contentsline {section}{A Poem for Indigo}{41}{}%
-\contentsline {section}{Y Porqué}{43}{}%
-\contentsline {section}{Scheherazade (Crush)}{44}{}%
-\contentsline {section}{This Is Why People Burning Down Fast Food Joints and Whatnot}{45}{}%
-\contentsline {section}{Stationery}{46}{}%
-\contentsline {section}{I am Me, Myself}{47}{}%
-\contentsline {section}{My mother texts me instructions to cook silken tofu}{48}{}%
-\contentsline {section}{Cocoon}{49}{}%
+\contentsline {section}{The Promise}{28}{}%
+\contentsline {section}{The Loneliest Job in the World}{29}{}%
+\contentsline {section}{May we raise children who love the unloved things}{30}{}%
+\contentsline {section}{We Lived Happily During the War}{31}{}%
+\contentsline {section}{Descent}{32}{}%
+\contentsline {section}{When I Die}{33}{}%
+\contentsline {section}{Do not love half lovers, Do not entertain half friends}{34}{}%
+\contentsline {section}{I shall not care }{35}{}%
+\contentsline {section}{Anthem for Doomed Youth }{36}{}%
+\contentsline {section}{Why Are Your Poems so Dark? }{37}{}%
+\contentsline {section}{Say Thank You Say I’m Sorry }{38}{}%
+\contentsline {section}{Small Kindnesses}{39}{}%
+\contentsline {section}{Tu Risa}{40}{}%
+\contentsline {section}{Lord Knows}{41}{}%
+\contentsline {section}{A Poem for Indigo}{42}{}%
+\contentsline {section}{Y Porqué}{44}{}%
+\contentsline {section}{Scheherazade (Crush)}{45}{}%
+\contentsline {section}{This Is Why People Burning Down Fast Food Joints and Whatnot}{46}{}%
+\contentsline {section}{Stationery}{47}{}%
+\contentsline {section}{I am Me, Myself}{48}{}%
+\contentsline {section}{My mother texts me instructions to cook silken tofu}{49}{}%
+\contentsline {section}{Cocoon}{50}{}%
+\contentsline {section}{Did It Ever Occur to You That Maybe You’re Falling in Love?}{51}{}%
