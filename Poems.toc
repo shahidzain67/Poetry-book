@@ -1,47 +1,51 @@
-\contentsline {section}{Archery}{1}{}%
-\contentsline {section}{Then the War}{2}{}%
-\contentsline {section}{Entire Known World So Far}{3}{}%
-\contentsline {section}{Of the Shining Underlife}{4}{}%
-\contentsline {section}{The Uncle Poem}{5}{}%
-\contentsline {section}{Fuck Your Lecture on Craft, My People Are Dying}{7}{}%
-\contentsline {section}{Tonight}{8}{}%
-\contentsline {section}{The Unbearable Weight of Staying}{9}{}%
-\contentsline {section}{Wild Geese}{10}{}%
-\contentsline {section}{And this I dreamt, and this I dream}{11}{}%
-\contentsline {section}{Love Poem 137}{12}{}%
-\contentsline {section}{Dos Lágrimas}{13}{}%
-\contentsline {section}{Sonneto XVII}{14}{}%
-\contentsline {section}{Self-Portrait With a Yellow Dress}{15}{}%
-\contentsline {section}{Stones and Bones}{16}{}%
-\contentsline {section}{Monet Refuses the Operation}{17}{}%
-\contentsline {section}{You Took the Last Bus Home by Brian Bilston}{18}{}%
-\contentsline {section}{Small Kindnesses}{39}{}%
-\contentsline {section}{Heavy}{20}{}%
-\contentsline {section}{Standing at The Mirror, Hate Is Replaced with Forgive}{21}{}%
-\contentsline {section}{What You Missed That Day You Were Absent from Fourth Grade}{22}{}%
-\contentsline {section}{Good Mama}{23}{}%
-\contentsline {section}{Ode to Dirt}{24}{}%
+\contentsline {section}{A Poem for Indigo}{1}{}%
+\contentsline {section}{And this I dreamt, and this I dream}{3}{}%
+\contentsline {section}{Anthem for Doomed Youth }{4}{}%
+\contentsline {section}{Archery}{5}{}%
+\contentsline {section}{Cocoon}{6}{}%
+\contentsline {section}{Coping}{7}{}%
+\contentsline {section}{Descent}{8}{}%
+\contentsline {section}{Did It Ever Occur to You That Maybe You’re Falling in Love?}{9}{}%
+\contentsline {section}{Do not love half lovers, Do not entertain half friends}{11}{}%
+\contentsline {section}{Dos Lágrimas}{12}{}%
+\contentsline {section}{Dulce et Decorum Est}{13}{}%
+\contentsline {section}{Entire Known World So Far}{14}{}%
+\contentsline {section}{Fuck Your Lecture on Craft, My People Are Dying}{15}{}%
+\contentsline {section}{Good Mama}{16}{}%
+\contentsline {section}{Heavy}{17}{}%
+\contentsline {section}{I am Me, Myself}{18}{}%
+\contentsline {section}{I shall not care }{19}{}%
+\contentsline {section}{Keeping Things Whole}{20}{}%
+\contentsline {section}{Lord Knows}{21}{}%
+\contentsline {section}{Love Poem 137}{22}{}%
+\contentsline {section}{May we raise children who love the unloved things}{23}{}%
+\contentsline {section}{Monet Refuses the Operation}{24}{}%
 \contentsline {section}{My Grandmother Washes Her Feet in the Sink of the Bathroom at Sears}{25}{}%
-\contentsline {section}{The Promise}{28}{}%
-\contentsline {section}{The Loneliest Job in the World}{29}{}%
-\contentsline {section}{May we raise children who love the unloved things}{30}{}%
-\contentsline {section}{We Lived Happily During the War}{31}{}%
-\contentsline {section}{Descent}{32}{}%
-\contentsline {section}{When I Die}{33}{}%
-\contentsline {section}{Do not love half lovers, Do not entertain half friends}{34}{}%
-\contentsline {section}{I shall not care }{35}{}%
-\contentsline {section}{Anthem for Doomed Youth }{36}{}%
-\contentsline {section}{Why Are Your Poems so Dark? }{37}{}%
-\contentsline {section}{Say Thank You Say I’m Sorry }{38}{}%
-\contentsline {section}{Small Kindnesses}{39}{}%
-\contentsline {section}{Tu Risa}{40}{}%
-\contentsline {section}{Lord Knows}{41}{}%
-\contentsline {section}{A Poem for Indigo}{42}{}%
-\contentsline {section}{Y Porqué}{44}{}%
-\contentsline {section}{Scheherazade (Crush)}{45}{}%
+\contentsline {section}{My mother texts me instructions to cook silken tofu}{27}{}%
+\contentsline {section}{Ode to Dirt}{28}{}%
+\contentsline {section}{Of the Shining Underlife}{29}{}%
+\contentsline {section}{Say Thank You Say I’m Sorry }{30}{}%
+\contentsline {section}{Scheherazade (Crush)}{31}{}%
+\contentsline {section}{Self-Portrait With a Yellow Dress}{32}{}%
+\contentsline {section}{Small Kindnesses}{33}{}%
+\contentsline {section}{Sonneto XVII}{34}{}%
+\contentsline {section}{Standing at The Mirror, Hate Is Replaced with Forgive}{35}{}%
+\contentsline {section}{Stationery}{36}{}%
+\contentsline {section}{Stones and Bones}{37}{}%
+\contentsline {section}{The Loneliest Job in the World}{38}{}%
+\contentsline {section}{The Promise}{40}{}%
+\contentsline {section}{The Tyger}{41}{}%
+\contentsline {section}{The Unbearable Weight of Staying}{42}{}%
+\contentsline {section}{The Uncle Poem}{43}{}%
+\contentsline {section}{Then the War}{45}{}%
 \contentsline {section}{This Is Why People Burning Down Fast Food Joints and Whatnot}{46}{}%
-\contentsline {section}{Stationery}{47}{}%
-\contentsline {section}{I am Me, Myself}{48}{}%
-\contentsline {section}{My mother texts me instructions to cook silken tofu}{49}{}%
-\contentsline {section}{Cocoon}{50}{}%
-\contentsline {section}{Did It Ever Occur to You That Maybe You’re Falling in Love?}{51}{}%
+\contentsline {section}{Tonight}{47}{}%
+\contentsline {section}{Tu Risa}{48}{}%
+\contentsline {section}{We Lived Happily During the War}{49}{}%
+\contentsline {section}{What You Missed That Day You Were Absent from Fourth Grade}{50}{}%
+\contentsline {section}{When I Die}{51}{}%
+\contentsline {section}{Why Are Your Poems so Dark? }{52}{}%
+\contentsline {section}{Wild Geese}{53}{}%
+\contentsline {section}{Y Porqué}{54}{}%
+\contentsline {section}{You Took the Last Bus Home by Brian Bilston}{55}{}%
+\contentsline {section}{You’ll Come Back to Yourself}{56}{}%
